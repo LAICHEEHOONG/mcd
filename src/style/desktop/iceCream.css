@@ -1,0 +1,25 @@
+.iceCream_btn {
+  position: absolute;
+  margin-top: -160px;
+  margin-left: 70px;
+}
+
+@media screen and (max-width: 1179px) {
+    .ice_cream_img {
+      width: 425px;
+    }
+    .iceCream_btn {
+      margin-top: -130px;
+      margin-left: 40px;
+    }
+}
+
+@media screen and (max-width: 970px) {
+  .ice_cream_img {
+    width: 390px;
+  }
+
+  .iceCream_btn {
+    margin-top: -115px;
+  }
+}

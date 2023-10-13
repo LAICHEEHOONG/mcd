@@ -1,0 +1,18 @@
+.coffee_icecream_container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 1300px;
+}
+
+@media screen and (max-width: 1179px) {
+    .coffee_icecream_container {
+        width: 970px;
+    }
+}
+
+@media screen and (max-width: 970px) {
+    .coffee_icecream_container {
+        width: 798px;
+    }
+}

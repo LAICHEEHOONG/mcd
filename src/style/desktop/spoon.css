@@ -1,0 +1,22 @@
+.spoon_img {
+    position: absolute;
+    width: 280px;
+    margin-left: 385px;
+    margin-top: -200px;
+}
+
+@media screen and (max-width: 1179px) {
+    .spoon_img {
+        width: 220px;
+        margin-left: 275px;
+        margin-top: -200px;
+    }
+}
+
+@media screen and (max-width: 970px) {
+    .spoon_img {
+        width: 190px;
+        margin-left: 250px;
+        margin-top: -150px;
+    }
+}
